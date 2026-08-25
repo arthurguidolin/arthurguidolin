@@ -1,63 +1,87 @@
-<div align="center">
+<!-- PROFILE README · Arthur Guidolin -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=175&section=header&animation=fadeIn" alt="Cabeçalho tecnológico em tons de azul" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=gradient&customColorList=12,20,24&text=ARTHUR%20GUIDOLIN&fontColor=F8FAFC&fontSize=46&fontAlignY=47&stroke=38BDF8&strokeWidth=0.35&animation=twinkling&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20PUCPR%20%E2%80%A2%20CURITIBA%2C%20BR&descAlignY=67&descSize=14" alt="Arthur Guidolin — Software Engineering" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=540&lines=Arthur+Guidolin;Software+Engineering+Student;Building+for+the+web" alt="Arthur Guidolin — Software Engineering Student — Building for the web" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=680&lines=Web+development+%7C+Full-stack+mindset;Learning.+Building.+Shipping.;Turning+ideas+into+digital+experiences." alt="Web development | Full-stack mindset | Learning, building and shipping" />
   </a>
 
-  <p>
-    <a href="https://www.linkedin.com/in/arthur-guidolin-937493367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:arthurresetz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://seuportfolio.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0f172a?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-  </p>
-
+  <br />
+  <a href="https://www.linkedin.com/in/arthur-guidolin-937493367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arthurresetz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+  <a href="https://seuportfolio.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
 </div>
 
-## Stack
+<br />
+
+## `//` Tech arsenal
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,git&theme=dark&perline=7" alt="Python, Java, JavaScript, HTML5, CSS3, Node.js e Git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,git&theme=dark&perline=7" alt="Python, Java, JavaScript, HTML5, CSS3, Node.js e Git" />
 </div>
 
-## Olá! Eu sou o Arthur 👨‍💻
+<div align="center">
+  <sub><b>Python</b> &nbsp;•&nbsp; <b>Java</b> &nbsp;•&nbsp; <b>JavaScript</b> &nbsp;•&nbsp; <b>HTML5</b> &nbsp;•&nbsp; <b>CSS3</b> &nbsp;•&nbsp; <b>Node.js</b> &nbsp;•&nbsp; <b>Git</b></sub>
+</div>
 
-Estudante de **Engenharia de Software** na **Pontifícia Universidade Católica do Paraná (PUCPR)**. Sou apaixonado por tecnologia e desenvolvimento, sempre em busca de novos conhecimentos e de projetos que transformem ideias em experiências digitais.
+<br />
 
-Atualmente, meu foco está em desenvolvimento **web** e **full-stack**, explorando JavaScript e frameworks do ecossistema web.
+## Sobre mim
+
+> **Estudante de Engenharia de Software na PUCPR.** Apaixonado por tecnologia e desenvolvimento, sempre buscando novos conhecimentos e projetos que transformem ideias em experiências digitais.
 
 <table>
   <tr>
-    <td>🎓 <strong>Formação</strong></td>
-    <td>Engenharia de Software</td>
+    <td width="50%" valign="top">
+      <h3>🎓 Formação</h3>
+      <strong>Engenharia de Software</strong><br />
+      Pontifícia Universidade Católica do Paraná
+    </td>
+    <td width="50%" valign="top">
+      <h3>📍 Base</h3>
+      <strong>Curitiba, Brasil</strong><br />
+      Construindo para a web, de onde estiver.
+    </td>
   </tr>
   <tr>
-    <td>📍 <strong>Localização</strong></td>
-    <td>Curitiba, Brasil</td>
-  </tr>
-  <tr>
-    <td>📚 <strong>Estudando</strong></td>
-    <td>JavaScript e frameworks web</td>
-  </tr>
-  <tr>
-    <td>🎯 <strong>Interesses</strong></td>
-    <td>Desenvolvimento web, full-stack e projetos pessoais</td>
+    <td width="50%" valign="top">
+      <h3>📚 Em aprendizado</h3>
+      JavaScript e frameworks web
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Direção</h3>
+      Desenvolvimento web, full-stack e projetos pessoais
+    </td>
   </tr>
 </table>
 
-## Atividade no GitHub
+## `//` GitHub telemetry
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arthurguidolin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1&icon_color=22d3ee&ring_color=38bdf8&rank_icon=github&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub de Arthur Guidolin" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguidolin&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=cbd5e1&cache_seconds=86400&locale=pt-br" alt="Linguagens mais usadas por Arthur Guidolin" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=arthurguidolin&hide_border=false&background=0F172A&border=334155&ring=38BDF8&fire=22D3EE&currStreakNum=F8FAFC&currStreakLabel=38BDF8&sideNums=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&stroke=334155" alt="Sequência de contribuições de Arthur Guidolin" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=arthurguidolin&show_icons=true&include_all_commits=true&hide_border=false&border_color=1E3A5F&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&icon_color=22D3EE&ring_color=38BDF8&rank_icon=github&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub de Arthur Guidolin" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguidolin&layout=compact&langs_count=8&hide_border=false&border_color=1E3A5F&bg_color=0F172A&title_color=38BDF8&text_color=CBD5E1&locale=pt-br&cache_seconds=86400" alt="Linguagens mais usadas por Arthur Guidolin" />
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arthurguidolin&hide_border=false&background=0F172A&border=1E3A5F&ring=38BDF8&fire=22D3EE&currStreakNum=F8FAFC&currStreakLabel=38BDF8&sideNums=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&stroke=1E3A5F" alt="Sequência de contribuições de Arthur Guidolin" />
+</div>
 
 <div align="center">
-  <sub>Aberto a aprender, criar e colaborar. Vamos construir algo incrível.</sub>
+  <img src="https://github-profile-trophy.vercel.app/?username=arthurguidolin&theme=onestar&no-frame=true&no-bg=true&column=-1&margin-w=12" alt="Conquistas no GitHub" />
+</div>
+
+## `//` Contribution flow
+
+<!-- A animação abaixo é criada pelo workflow em .github/workflows/generate-snake.yml. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurguidolin/arthurguidolin/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurguidolin/arthurguidolin/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/arthurguidolin/arthurguidolin/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <sub>Open to learn, create and collaborate — let’s build something meaningful.</sub>
 </div>
