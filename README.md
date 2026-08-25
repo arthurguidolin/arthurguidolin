@@ -16,14 +16,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-cd815b7f-5395-4e31-bc45-7c2a48d5af6e.gif" width="100%" alt="Linha animada em gradiente" />
 
-## ⚡ Core stack
+## ⚡ Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,nodejs,git&theme=dark&perline=7" alt="Python, Java, JavaScript, HTML5, CSS3, Node.js e Git" />
-</div>
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" alt="HTML5, CSS3, JavaScript e React" />
+  <br />
+  <sub><b>HTML5</b> &nbsp;✦&nbsp; <b>CSS3</b> &nbsp;✦&nbsp; <b>JavaScript</b> &nbsp;✦&nbsp; <b>React — LEARNING</b></sub>
 
-<div align="center">
-  <sub><b>Python</b> &nbsp;✦&nbsp; <b>Java</b> &nbsp;✦&nbsp; <b>JavaScript</b> &nbsp;✦&nbsp; <b>HTML5</b> &nbsp;✦&nbsp; <b>CSS3</b> &nbsp;✦&nbsp; <b>Node.js</b> &nbsp;✦&nbsp; <b>Git</b></sub>
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,nodejs&theme=dark&perline=4" alt="Python, Java, C# e Node.js" />
+  <br />
+  <sub><b>Python</b> &nbsp;✦&nbsp; <b>Java</b> &nbsp;✦&nbsp; <b>C# — LEARNING</b> &nbsp;✦&nbsp; <b>Node.js</b></sub>
+
+  <h3>Version control</h3>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+  <br />
+  <sub><b>Git</b></sub>
 </div>
 
 <br />
