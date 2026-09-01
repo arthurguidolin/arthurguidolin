@@ -47,8 +47,8 @@ I am a Software Engineering student based in **Curitiba, Brazil**, highly focuse
 ### Workspace & Version Control
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools and Environment" />
 
-- **Environment:** Linux Mint, VS Code, Git, GitHub
-- **AI / Productivity:** Claude
+- **Environment:** Linux Mint, VS Code, Antigravity IDE, Git, GitHub
+- **AI / Productivity:** Claude, Antigravity Agent
 
 ---
 
