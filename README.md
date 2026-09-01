@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Arthur Guidolin</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&pause=1000&color=F8FAFC&center=true&vCenter=true&width=500&height=60&lines=Arthur+Guidolin" alt="Arthur Guidolin" />
 
   <p>
     <b>Software Engineering @ PUCPR | Full-Stack Web Developer</b>
@@ -31,7 +31,6 @@ I am a Software Engineering student based in **Curitiba, Brazil**, highly focuse
 
 - 🎓 **Education:** Software Engineering @ PUCPR *(Pontifícia Universidade Católica do Paraná)*
 - 🎯 **Focus:** Web Development, Full-stack & Personal Projects
-- 🌱 **Currently Learning:** JavaScript, React, C# & Web Frameworks
 - 💡 **Mindset:** Always curious. Always building.
 
 ---
@@ -41,14 +40,19 @@ I am a Software Engineering student based in **Curitiba, Brazil**, highly focuse
 ### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cs,nodejs&theme=dark" alt="Languages and Frameworks" />
 
-- **Frontend:** HTML5, CSS3, JavaScript, React *(Learning)*
-- **Backend:** Python, Java, Node.js, C# *(Learning)*
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Python, Java, Node.js, C#
 
-### Workspace & Version Control
+### Workspace & AI
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools and Environment" />
+<br /><br />
+<img src="https://img.shields.io/badge/Antigravity_IDE-121827?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE" />
+<img src="https://img.shields.io/badge/Antigravity_Agent-121827?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Antigravity Agent" />
+<img src="https://img.shields.io/badge/Claude-121827?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 
-- **Environment:** Linux Mint, VS Code, Antigravity IDE, Git, GitHub
-- **AI / Productivity:** Claude, Antigravity Agent
+- **Environment:** Linux Mint, VS Code, Git, GitHub
+- **Antigravity Ecosystem:** Antigravity IDE, Antigravity Agent
+- **AI / Productivity:** Claude
 
 ---
 
