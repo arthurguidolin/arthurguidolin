@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&pause=1000&color=F8FAFC&center=true&vCenter=true&width=500&height=60&lines=Arthur+Guidolin" alt="Arthur Guidolin" />
+  <h1>👋 Arthur Guidolin</h1>
 
   <p>
     <b>Software Engineering @ PUCPR | Full-Stack Web Developer</b>
@@ -60,7 +60,7 @@ I am a Software Engineering student based in **Curitiba, Brazil**, highly focuse
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurguidolin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1&icon_color=F472B6&ring_color=22D3EE&rank_icon=github&locale=pt-br&cache_seconds=86400" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguidolin&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0B1020&title_color=F472B6&text_color=CBD5E1&locale=pt-br&cache_seconds=86400" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguidolin&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=F472B6&text_color=CBD5E1&locale=pt-br&cache_seconds=86400" alt="Top Languages" height="165" />
   
   <br /><br />
 
