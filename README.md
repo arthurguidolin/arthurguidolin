@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./ezgif-62372d3fd1a4cb2c.gif" width="100%" alt="Banner Animado" />
+</p>
+
 <div align="center">
 
   <h1>👋 Arthur Guidolin</h1>
